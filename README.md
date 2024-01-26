@@ -10,7 +10,7 @@ Eu sou Joyce Santos, uma Engenheira de Dados que trabalha na empresa Porto (gran
 * 📘 Meu hobby é escrever. Gosto de fazer documentações (😮) e de escrever histórias de diferentes gêneros. 
 * 😸 Tenho um gato chamado Gael que é meu estagiário. Hehe'
 
-## 🔗 Connect with me
+## 🔗 Me add
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-santos-5a74b153/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joycensantos)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joycenascisantos/)
