@@ -1,26 +1,22 @@
-# 👋 Hello!
+# 👋 Oie!
 
-I'm Andre Sionek, a Lead Software/Data Engineer from Brazil, but living in London. 
+Eu sou Joyce Santos, uma Engenheira de Dados que trabalha na empresa Porto (grande no setor de seguros). 
 
-* 🔭 I have worked in a variety of businesses: financial services, marketplaces, real estate, online food delivery services. 
-* ❤️ I love to work at the intersection of Data and Software Engineering.
-* 😴 I'm lazy. So I tend to automate everything I can.
-* ☁️ I work on the cloud... a.k.a. AWS.
-* 💬 I love talking about Infrastructure as Code, especially AWS CDK.
-* 📘 I'm writing a book and I really enjoy teaching!
-* 🐶 My dog is called "Belisco", which means "to pinch" in portuguese. Yeah... He bites.
+* 🔭 Eu já trabalhei com diferentes negócios: Setor da Educação, Seguros, Governo. 
+* ❤️ Eu amo dados e tudo relacionado, então já tive experiência como Analista de Dados e um pouquinho de Ciência de Dados, além da minha maior paixão: Engenharia!
+* 😧 Sou ansiosa. Então sempre tento pensar em todos os possíveis cenários de erro para me precaver. 
+* ☁️ Sempre fui mais do mundo On Premisses mas venho estudando muito para me aprimorar em Cloud. Principalmente Azure. 
+* 💻 Adoro aprender coisas novas na prática!
+* 📘 Meu hobby é escrever. Gosto de fazer documentações (😮) e de escrever histórias de diferentes gêneros. 
+* 😸 Tenho um gato chamado Gael que é meu estagiário. Hehe'
 
 ## 🔗 Connect with me
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sionek)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresionek)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/andresionek)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/AndreSionek)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andresionek91/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sou.o.belisco/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-santos-5a74b153/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joycensantos)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joycenascisantos/)
 
 ## ⚡ Stack
 
-* **Data Engineering:** Airflow, dbt, Spark, Databricks, Delta, EMR, Glue, Athena, Redshift, Snowflake, Kinesis.
-* **Software Engineering:** Lambda, ECS, Step Functions, SNS, SQS, RDS, ElasticSearch, AppSync, GraphQL, REST, FastAPI, SQLModel, DynamoDB.
-* **DevOps:** AWS CDK, CloudFormation, GitHub Actions, CircleCI, PagerDuty, Docker.
+* **Data Engineering:** Airflow, dbt, Spark, Databricks, Delta, EMR, Data Factory, BigQuery, Snowflake, SQL, Bancos relacionais.
+* **DevOps:** GitHub Actions, Docker, Azure DevOps.
 
